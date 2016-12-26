@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfrostjson.a  CMakeFiles/frostjson.dir/frostjson.cpp.o
+/usr/bin/ranlib libfrostjson.a

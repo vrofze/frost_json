@@ -1,0 +1,4 @@
+/home/vrofze/src/cpp/frost_json/build/CMakeFiles/edit_cache.dir
+/home/vrofze/src/cpp/frost_json/build/CMakeFiles/rebuild_cache.dir
+/home/vrofze/src/cpp/frost_json/build/CMakeFiles/frostjson_test.dir
+/home/vrofze/src/cpp/frost_json/build/CMakeFiles/frostjson.dir

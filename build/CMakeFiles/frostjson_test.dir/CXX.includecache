@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vrofze/src/cpp/frost_json/frostjson.h
+
+/home/vrofze/src/cpp/frost_json/test.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+frostjson.h
+/home/vrofze/src/cpp/frost_json/frostjson.h
+

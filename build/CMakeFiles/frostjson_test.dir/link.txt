@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/frostjson_test.dir/test.cpp.o  -o frostjson_test -rdynamic libfrostjson.a 
